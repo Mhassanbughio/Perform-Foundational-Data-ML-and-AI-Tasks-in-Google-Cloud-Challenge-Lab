@@ -11,6 +11,7 @@ gsutil cp gs://cloud-training/gsp323/lab.schema .
 cat lab.schema
 
 
-
+##############################################################################################################################
 Task - 2 : Run a simple Dataproc job
 This has to be done mannually.
+
