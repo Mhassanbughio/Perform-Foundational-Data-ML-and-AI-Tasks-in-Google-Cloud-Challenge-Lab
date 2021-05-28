@@ -90,4 +90,5 @@ Add this content:
 Now add the following commands on the command line:
 
 curl -s -H 'Content-Type: application/json' \
+-H "Authorization: Bearer $ACCESS_TOKEN" \
     
