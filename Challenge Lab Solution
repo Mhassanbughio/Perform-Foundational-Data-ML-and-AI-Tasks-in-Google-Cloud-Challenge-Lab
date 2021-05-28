@@ -78,3 +78,6 @@ nano request.json
 
 Add this content:
 
+{
+   "inputUri":"gs://spls/gsp154/video/chicago.mp4",
+  
