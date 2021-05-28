@@ -68,3 +68,6 @@ gcloud iam service-accounts create quickstart
 
 gcloud iam service-accounts keys create key.json --iam-account quickstart@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com
 
+gcloud auth activate-service-account --key-file key.json
+
+
