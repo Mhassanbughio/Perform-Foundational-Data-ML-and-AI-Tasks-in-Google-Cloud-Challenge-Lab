@@ -41,3 +41,4 @@ gcloud auth login
 gsutil cp result.json gs://YOUR_PROJECT-marking/task4-cnl.result
 
 
+Create an API key and export as API_KEY variable.
