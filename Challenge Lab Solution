@@ -31,3 +31,5 @@ gcloud iam service-accounts keys create ~/key.json \
 
 export GOOGLE_APPLICATION_CREDENTIALS="/home/$USER/key.json"
 
+gcloud auth activate-service-account my-natlang-sa@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com --key-file=$GOOGLE_APPLICATION_CREDENTIALS
+
