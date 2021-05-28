@@ -70,4 +70,9 @@ gcloud iam service-accounts keys create key.json --iam-account quickstart@${GOOG
 
 gcloud auth activate-service-account --key-file key.json
 
+export ACCESS_TOKEN=$(gcloud auth print-access-token)
+
+
+nano request.json
+
 
