@@ -1,1 +1,4 @@
 Task - 1 : Run a simple Dataflow job
+
+bq mk lab
+
