@@ -64,3 +64,5 @@ curl -s -X POST -H "Content-Type: application/json" --data-binary @request.json 
 
 gsutil cp result.json gs://YOUR_PROJECT-marking/task4-gcs.result
 
+gcloud iam service-accounts create quickstart
+
