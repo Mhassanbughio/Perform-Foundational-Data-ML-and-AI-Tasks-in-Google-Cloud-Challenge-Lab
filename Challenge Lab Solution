@@ -38,4 +38,6 @@ gcloud ml language analyze-entities --content="Old Norse texts portray Odin as o
 gcloud auth login
 (Copy the token from the link provided)
 
+gsutil cp result.json gs://YOUR_PROJECT-marking/task4-cnl.result
+
 
