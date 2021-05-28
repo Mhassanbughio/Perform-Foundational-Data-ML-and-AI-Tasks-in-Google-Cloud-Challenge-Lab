@@ -142,4 +142,5 @@ Click Check my progress to verify the objective.
 One of the tasks successfully completed.
 
 If you don't get a green check mark, click on the Score fly-out on the top right and click Check my progress on the relevant step. A hint pop up opens to give you advice.
+
 Congratulations!
