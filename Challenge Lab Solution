@@ -8,5 +8,7 @@ cat lab.csv
 
 gsutil cp gs://cloud-training/gsp323/lab.schema .
 
+cat lab.schema
+
 
 
