@@ -46,3 +46,6 @@ Create an API key and export as API_KEY variable.
 export API_KEY={Replace with API KEY}
 
 nano request.json
+
+Add this content:
+
