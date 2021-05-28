@@ -100,4 +100,6 @@ curl -s -H 'Content-Type: application/json' -H "Authorization: Bearer $ACCESS_TO
     gsutil cp result1.json gs://YOUR_PROJECT-marking/task4-gvi.result
 
 
+Congratulations, you're all done with the lab 😄
+
 
