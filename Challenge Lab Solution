@@ -49,3 +49,9 @@ nano request.json
 
 Add this content:
 
+{
+  "config": {
+      "encoding":"FLAC",
+      "languageCode": "en-US"
+  },
+  
