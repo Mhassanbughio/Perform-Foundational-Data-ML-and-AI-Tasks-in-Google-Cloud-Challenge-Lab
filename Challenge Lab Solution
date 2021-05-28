@@ -4,3 +4,5 @@ bq mk lab
 
 gsutil cp gs://cloud-training/gsp323/lab.csv .
 
+cat lab.csv
+
